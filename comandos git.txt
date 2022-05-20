@@ -1,0 +1,19 @@
+cd .. salir
+cd .. <directorio> entrar
+ls listar
+git init crear proyecto git
+git add . ok proyecto
+git commit -m "Guardar estado de archivos al momento"
+git log --oneline VER HISTORIAL
+git config --global user.name "Matias Jara" CREAR USUARIO
+git config --global user.email "matijaraa@gmail.com" AGREGAR EMAIL
+git status Estado
+git diff VER CAMBIO
+git restore . ELIMINA ULTIMO PASO
+q SALE DE DIFF
+clear Limpia consola
+.git ignore LO QUE VAYA DENTRO NO SE SUBE ej ignorado.html
+upload/ DENTRO DE .gitignore
+.env DENTRO de git ignore
+git remote -v VER REMOTO
+git push ACTUALIZA SUBE INFORMACION A GIT
